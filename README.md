@@ -7,6 +7,7 @@ Try it now!
 https://budgetflow-poc.streamlit.app
 
 
-![image](https://github.com/user-attachments/assets/a4585ad8-7a04-4f92-894f-fd86f4622669)
+![image](https://github.com/user-attachments/assets/7897ae6a-6c58-444c-a8a5-8b7ddc636d50)
+
 
 
