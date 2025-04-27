@@ -6,3 +6,7 @@ Built using Linux, Bash, Python, and AWS or AZURE services, BudgetFlow bridges t
 Try it now! 
 https://budgetflow-poc.streamlit.app
 
+
+![image](https://github.com/user-attachments/assets/a4585ad8-7a04-4f92-894f-fd86f4622669)
+
+
